@@ -5,7 +5,7 @@ The goal of this MOOC is to complete all the assignments in the "tensorflow/exam
 
 MOOC url: https://www.udacity.com/course/deep-learning--ud730
 
-## Status
+## Status: DONE!
 
 ### Assigment 1
 nearly DONE
@@ -21,7 +21,7 @@ DONE
 DONE
 
 ### Assigment 4
-DONE
+DONE (best performance with the NotMNIST dataset: 96.1%)
 
 ### Assigment 5
 DONE (CBOW model in word2vec)
@@ -29,7 +29,7 @@ DONE (CBOW model in word2vec)
 ### Assigment 6
 * Problem 1: DONE
 * Problem 2: DONE
-* Problem 3: TODO
+* Problem 3: DONE (sequence-to-sequence models) 
 
 *BONUS for problem 2:*
 * implement a GRU cell instead of an LSTM cell
